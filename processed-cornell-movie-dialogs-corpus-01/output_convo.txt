@@ -1,0 +1,260 @@
+HUMAN ++++ hello there
+BOT ++++ yuri yuri yuri yuri yuri yuri yuri scientists scientists scientists scientists scientists chico chico chico seemed seemed seemed seemed
+HUMAN ++++ nice
+BOT ++++ yuri yuri yuri yuri yuri yuri yuri yuri himbry himbry himbry himbry himbry himbry chico chico chico chico seemed
+HUMAN ++++ nice to meet you
+BOT ++++ yuri yuri yuri yuri scientists himbry himbry himbry himbry himbry himbry himbry himbry himbry himbry seemed seemed seemed seemed
+HUMAN ++++ exit
+BOT ++++ yuri yuri yuri yuri yuri yuri yuri yuri yuri himbry himbry himbry himbry himbry himbry himbry seemed seemed seemed
+HUMAN ++++ i am done thanks
+BOT ++++ yuri yuri yuri yuri yuri yuri himbry disclosed disclosed disclosed disclosed disclosed disclosed seemed seemed seemed seemed seemed seemed
+=============================================
+HUMAN ++++ hello
+BOT ++++ <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+HUMAN ++++ hello how are you doing
+BOT ++++ <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+HUMAN ++++ hello
+BOT ++++ <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+HUMAN ++++ hello
+BOT ++++ 
+HUMAN ++++ hello how are you
+BOT ++++ i ' m not .
+HUMAN ++++ cameron
+BOT ++++ 
+HUMAN ++++ well i thought we'd start with pronunciation
+BOT ++++ i ' m not .
+HUMAN ++++ hi
+BOT ++++ 
+HUMAN ++++ please what
+BOT ++++ i ' m not .
+HUMAN ++++ can you say anything other than i'm nnot
+BOT ++++ i ' m not .
+HUMAN ++++ they do not
+BOT ++++ i ' m not .
+HUMAN ++++ i hope so
+BOT ++++ i ' m not .
+HUMAN ++++ wow
+BOT ++++ i ' m not .
+HUMAN ++++ let
+BOT ++++ 
+HUMAN ++++  let's go
+BOT ++++ i ' m not .
+HUMAN ++++ do you listen to this crap?
+BOT ++++ i ' m not .
+HUMAN ++++ the real you
+BOT ++++ i ' m not .
+HUMAN ++++ the "real you"
+BOT ++++ i ' m not .
+HUMAN ++++ you always been this selfish
+BOT ++++ i ' m not .
+HUMAN ++++ hi
+BOT ++++ 
+HUMAN ++++ hi how are you
+BOT ++++ i ' m not .
+HUMAN ++++ do you only say i'm not
+BOT ++++ i ' m not .
+HUMAN ++++ hi
+BOT ++++ 
+HUMAN ++++ i'm chip
+BOT ++++ you ' re not going to be a little .
+HUMAN ++++ where are you from
+BOT ++++ i don ' t know .
+HUMAN ++++ do you like where you are from
+BOT ++++ i don ' t know .
+HUMAN ++++ do you know anything
+BOT ++++ yes .
+HUMAN ++++ do you have a gun?
+BOT ++++ yes .
+HUMAN ++++ are you sure?
+BOT ++++ yes .
+HUMAN ++++ maybe you don't have a gun?
+BOT ++++ no .
+HUMAN ++++ they do not!
+BOT ++++ you ' re not , you ' re not ?
+HUMAN ++++ i hope so.
+BOT ++++ what ?
+HUMAN ++++ she okay?
+BOT ++++ yes .
+HUMAN ++++ let's go.
+BOT ++++ what ?
+HUMAN ++++ cameron
+BOT ++++ what ?
+HUMAN ++++ why?
+BOT ++++ because you ' re not a good .
+HUMAN ++++ not a good what?
+BOT ++++ what ?
+HUMAN ++++ the thing is cameron
+BOT ++++ what ?
+HUMAN ++++ the thing is, cameron -- i'm at the mercy of a particularly hideous breed of loser.
+HUMAN ++++ what 
+BOT ++++ you ' re going to have to be a little .
+HUMAN ++++ you know chastity
+BOT ++++ yes .
+HUMAN ++++ c'est ma tete. that's my head
+BOT ++++ what ?
+HUMAN ++++ there
+BOT ++++ 
+HUMAN ++++ sure have
+BOT ++++ what ?
+HUMAN ++++ she's not a...
+BOT ++++ what ?
+HUMAN ++++ well, no...
+BOT ++++ what ?
+HUMAN ++++ then that's all you had to say
+BOT ++++ what ?
+HUMAN ++++ that's all you had to say.
+BOT ++++ what ?
+HUMAN ++++ she okay?
+BOT ++++ yes .
+HUMAN ++++ wow
+BOT ++++ what ?
+HUMAN ++++ did you change your hair?
+BOT ++++ yes .
+HUMAN ++++ is he oily or dry?
+BOT ++++ yes .
+HUMAN ++++ it's more
+BOT ++++ what ?
+HUMAN ++++ hi, joey.
+BOT ++++ hello .
+HUMAN ++++ hi there
+BOT ++++ 
+HUMAN ++++ how are you?
+BOT ++++ i don ' t know .
+HUMAN ++++ hey, sweet cheeks.
+BOT ++++ what ?
+HUMAN ++++ where've you been?
+BOT ++++ i don ' t know .
+HUMAN ++++ is he oily or dry?
+BOT ++++ i ' m not .
+HUMAN ++++ did you change your hair?
+BOT ++++ yes .
+HUMAN ++++ hi, joey
+BOT ++++ hi .
+HUMAN ++++ hi, cameran
+BOT ++++ hi .
+HUMAN ++++ hey, sweet cheeks
+BOT ++++ i ' m sorry .
+HUMAN ++++ why are you sorry?
+BOT ++++ i ' m not .
+HUMAN ++++ you just said you are sorry
+BOT ++++ i ' m not .
+HUMAN ++++ where've you been
+BOT ++++ i ' m not .
+HUMAN ++++ the thing is, cameron
+BOT ++++ i ' m sorry .
+HUMAN ++++ sure have
+BOT ++++ i ' m sorry .
+HUMAN ++++ sure thing
+BOT ++++ what ?
+HUMAN ++++ that's all you had to say
+BOT ++++ i ' m sorry .
+HUMAN ++++ am just checking if this still works
+BOT ++++ i ' m sorry .
+HUMAN ++++ you are always sorry
+BOT ++++ i ' m sorry .
+HUMAN ++++ do you love me
+BOT ++++ i ' m sorry .
+HUMAN ++++ tell me straight
+BOT ++++ i ' m sorry .
+HUMAN ++++ hi
+BOT ++++ hi .
+HUMAN ++++ hello
+BOT ++++ hi .
+HUMAN ++++ hello how are you
+BOT ++++ i ' m sorry .
+HUMAN ++++ hi
+BOT ++++ i ' m going to be a good .
+HUMAN ++++ a good what?
+BOT ++++ a little .
+HUMAN ++++ where're you from?
+BOT ++++ i ' m going to be a long .
+HUMAN ++++ which city
+BOT ++++ 
+HUMAN ++++ how old are you?
+BOT ++++ i don ' t know .
+HUMAN ++++ you know chastity?
+BOT ++++ no .
+HUMAN ++++ i was?
+BOT ++++ yeah .
+HUMAN ++++ that that's all you had to say.
+BOT ++++ i ' m not sure .
+HUMAN ++++ but
+BOT ++++ what ?
+HUMAN ++++ why?
+BOT ++++ because .
+HUMAN ++++ ok, fair enough.
+BOT ++++ i ' m not sure .
+HUMAN ++++ so that's the kind of guy she likes? pretty ones?
+BOT ++++ yeah .
+HUMAN ++++ cameron.
+BOT ++++ what ?
+HUMAN ++++ hi, my name is cameron.
+BOT ++++ i ' m not sure .
+HUMAN ++++ right. see?
+BOT ++++ yeah .
+HUMAN ++++ you got something on your mind?
+BOT ++++ no .
+HUMAN ++++ how do you get your hair to look like that?
+BOT ++++ i don ' t know .
+HUMAN ++++ i looked for you back at the party, but you always seemed "occupied"
+BOT ++++ i ' m not sure .
+HUMAN ++++ they do not!
+BOT ++++ i know .
+HUMAN ++++ they do to!
+BOT ++++ who ?
+HUMAN ++++ them, you know.
+BOT ++++ i know .
+HUMAN ++++ i hope so.
+BOT ++++ i ' m not sure .
+HUMAN ++++ she okay?
+BOT ++++ no .
+HUMAN ++++ let
+BOT ++++ i want to talk to you .
+HUMAN ++++ let's go.
+BOT ++++ i ' ll see you .
+HUMAN ++++ wow
+BOT ++++ what ?
+HUMAN ++++ okay you're gonna need to learn how to lie
+BOT ++++ i ' m not sure .
+HUMAN ++++ no
+BOT ++++ no .
+HUMAN ++++ yes
+BOT ++++ i ' m not going to make you .
+HUMAN ++++ im
+BOT ++++ what ?
+HUMAN ++++ what good stuff?
+BOT ++++ i don ' t know .
+HUMAN ++++ i'm kidding.
+BOT ++++ i ' m not going to be a few .
+HUMAN ++++ do you listen to this crap?
+BOT ++++ no .
+HUMAN ++++ you always been this selfish?
+BOT ++++ no .
+HUMAN ++++ well, no
+BOT ++++ i ' m not sure .
+HUMAN ++++ have fun tonight?
+BOT ++++ no .
+HUMAN ++++ i believe we share an art instructor?
+BOT ++++ yeah .
+HUMAN ++++ looks like things worked out tonight, huh?
+BOT ++++ yeah .
+HUMAN ++++ i'm working on it
+BOT ++++ i ' m not going to have a drink .
+HUMAN ++++ you'r sweet
+BOT ++++ no .
+HUMAN ++++ you have my word.
+BOT ++++ i ' m not sure .
+HUMAN ++++ forget french
+BOT ++++ i ' m not sure .
+HUMAN ++++ that's a shame.
+BOT ++++ i know .
+HUMAN ++++ why?
+BOT ++++ because .
+HUMAN ++++ who are you?
+BOT ++++ i ' m a friend .
+HUMAN ++++ do you love me
+BOT ++++ i want you to .
+HUMAN ++++ tell me straight
+BOT ++++ i don ' t know .
+HUMAN ++++ hello how are you?
+BOT ++++ i ' m fine .
