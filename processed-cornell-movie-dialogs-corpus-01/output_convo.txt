@@ -258,3 +258,73 @@ HUMAN ++++ tell me straight
 BOT ++++ i don ' t know .
 HUMAN ++++ hello how are you?
 BOT ++++ i ' m fine .
+HUMAN ++++ that's a shame
+BOT ++++ i ' m not a bit .
+HUMAN ++++ why?
+BOT ++++ i don ' t know .
+HUMAN ++++ who are you?
+BOT ++++ i am .
+HUMAN ++++ tell me straight
+BOT ++++ i don ' t know .
+HUMAN ++++ hello
+BOT ++++ i ' m just going to be a minute .
+HUMAN ++++ hello how are you?
+BOT ++++ i am .
+HUMAN ++++ let
+BOT ++++ and ?
+HUMAN ++++ let's go
+BOT ++++ no .
+HUMAN ++++ looks like things worked out tonight
+BOT ++++ i ' m not going to be a few .
+HUMAN ++++ ueah
+BOT ++++ what ?
+HUMAN ++++ yeah
+BOT ++++ i ' ll see you in there .
+HUMAN ++++ i'm working on it
+BOT ++++ yes .
+HUMAN ++++ that's a shame
+BOT ++++ i ' m not a bit .
+HUMAN ++++ why?
+BOT ++++ i don ' t know .
+HUMAN ++++ who are you?
+BOT ++++ i am .
+HUMAN ++++ tell me straight
+BOT ++++ i don ' t know .
+HUMAN ++++ hello how are you?
+BOT ++++ i am .
+HUMAN ++++ where are you from
+BOT ++++ <unk> .
+HUMAN ++++ do you like california
+BOT ++++ yes .
+HUMAN ++++ i'm student here
+BOT ++++ what ?
+HUMAN ++++ blah
+BOT ++++ and ?
+HUMAN ++++ hello
+BOT ++++ 
+HUMAN ++++ that's a shame
+BOT ++++ what ?
+HUMAN ++++ why?
+BOT ++++ 
+HUMAN ++++ who are you?
+BOT ++++ i ' m .
+HUMAN ++++ tell me straight
+BOT ++++ 
+HUMAN ++++ i don't know
+BOT ++++ i ' t not .
+HUMAN ++++ hello how are you?
+BOT ++++ i ' t .
+HUMAN ++++ let
+BOT ++++ 
+HUMAN ++++ ;et
+BOT ++++ 
+HUMAN ++++ let's go
+BOT ++++ 
+HUMAN ++++ let's go
+BOT ++++ 
+HUMAN ++++ i'm working on it
+BOT ++++ i ' t not .
+HUMAN ++++ hello how are you
+BOT ++++ i ' m a cop .
+HUMAN ++++ hello how are you?
+BOT ++++ i am .
